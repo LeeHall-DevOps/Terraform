@@ -5,15 +5,15 @@ VARIABLE                 VALUE
 - AWS_ACCESS_KEY_ID      XXXXXX
 - AWS_SECRET_ACCESS_KEY  XXXXXX
 
-#### initialize terraform
+- initialize terraform
 terraform init
 
-#### run terraform
+- run terraform
 terraform plan
 
-#### apply terraform
+- apply terraform
 terraform apply
 
-#### to destory instance
+- to destory instance
 terraform destory
 
