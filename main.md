@@ -2,7 +2,7 @@
 
 
 # Who is the cloud provider: AWS
-
+provider ""
 # What type is the server? ubuntu 18.04 LTS ami
 resource "aws_instance" "Main" {
 
